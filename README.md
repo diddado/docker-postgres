@@ -14,4 +14,4 @@ ADMINER_PORT=8080 # the port to run the admin interface on
 
 Run ```docker-compose up``` to start the container.
 
-Browse to http://localhost:8081 to view the database.
+Browse to http://localhost:8080 to view the database where 8080 is the ADMINER_PORT
